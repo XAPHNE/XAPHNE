@@ -1,6 +1,6 @@
 ### 👋 Hi there, I’m Subhankar Sarkar!
 
-🎓 Final Year B.Tech Student at Kaziranga University, majoring in Computer Science and Technology.
+🎓 Final Year B.Tech Student at Kaziranga University, majoring in Computer Science and Engineering.
 
 🏢 Intern at BSM International, Assam, India.
 
