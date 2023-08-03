@@ -4,9 +4,9 @@
 
 🏢 Intern at BSM International, Assam, India.
 
-📚 I enjoy watching anime, reading novels, comics, and manga, and developing Java applications.
+📚 I enjoy watching anime, reading novels, comics, and manga.
 
-💻 Passionate about artificial intelligence, machine learning, web development, and natural language processing.
+💻 Passionate about artificial intelligence, machine learning, web development, natural language processing , and Java applications development.
 
 🔭 Currently learning JavaFX to build an attendance system for RFID solutions.
 
