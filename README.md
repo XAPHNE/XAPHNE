@@ -14,8 +14,8 @@ Welcome to my GitHub profile! I'm 💻 passionate about artificial intelligence,
 
 Here are some of the projects I've worked on:
 
-- [Attendance System](link-to-project-repo) - It allows a user to mark attendance with entry and exit time.
-- [Student Management System](link-to-another-project) - It alows teachers to login and perform CRUDE operation on student and their grades.
+- [Attendance System](https://github.com/XAPHNE/AttendanceSystem) - It allows a user to mark attendance with entry and exit time.
+- [Student Management System](https://github.com/XAPHNE/StudentManagementSystem) - It alows teachers to login and perform CRUDE operation on student and their grades.
 
 Feel free to explore more of my projects on my [Portfolio](https://xaphne.github.io/portfolio).
 
